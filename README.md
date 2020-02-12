@@ -1,2 +1,4 @@
 # Fracture-Separation-Analysis
-Separation of planar-like connected features
+Three-dimensional separation of the skeleton of planar-like connected features.
+
+
