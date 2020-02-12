@@ -1,7 +1,7 @@
 # Fracture-Separation-Analysis
 Three-dimensional separation of the skeleton of individual planar-like connected features.
 
-To use the program, put the PATH of the folder where the gray-scale image stack is stored and define the parameters for the analysis based on the irregular shape of your features:
+To use the program, at the bottom of "fsf.py" put the PATH of the folder where the gray-scale image stack is stored and define the parameters for the analysis based on the irregular shape of your features:
 - tol_or = Orientation tolerance for 2D pairing of segments (in degrees)
 - loc_tol_or = Orientation tolerance between 2D segments close to the interconnection (in degrees)
 - vx = Size of the window to place at each interconnection to record the "segments" present
