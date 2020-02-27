@@ -12,3 +12,6 @@ Before running the program:
   - tol_or_base = Orientation tolerance for 3D pairing of segments (in degrees)
 
 2) RUN the script
+
+If using the program, please cite: Cappuccio F., Toy V., Mills S., Adam L., Three-dimensional separation and characterization of fractures in X-ray computed tomigraphic images of rocks.
+Test sample and scripts of analysis are present in the repository "Test-sample-and-scripts"
