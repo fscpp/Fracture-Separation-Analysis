@@ -13,5 +13,7 @@ Before running the program:
 
 2) RUN the script
 
-If using the program, please cite: Cappuccio F., Toy V., Mills S., Adam L., Three-dimensional separation and characterization of fractures in X-ray computed tomigraphic images of rocks.
+Computation time: the FSF can present high variation in computation time between images of different sizes. For example, processing an image of size 510x510x510 on a i7-8750H will require ~50 minutes. On the same processor, the computation time for an image of size 1020x1020x1020 is ~12 hours. For 3D cubic images the processing time calculated are {size axis of image (px), computation time (s)}: {51, 1}, {102, 7}, {510, 3147}, {1020, ~43200}.
+
+If using the program, please cite: Cappuccio F., Toy V., Mills S., Adam L., Three-dimensional separation and characterization of fractures in X-ray computed tomographic images of rocks.
 Test sample and scripts of analysis are present in the repository "Test-sample-and-scripts"
